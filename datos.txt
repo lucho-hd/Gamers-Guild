@@ -1,0 +1,9 @@
+Alumno: Luciano Caruso.
+Materia: Aplicaciones para Dispositivos Móviles.
+Carrera: Diseño Web.
+Cuatrimestre: 3er.
+Año: 2022.
+Turno: Mañana.
+Comisión: 3AV.
+Docente: Mabel García.
+Carácter de entrega: Final.
